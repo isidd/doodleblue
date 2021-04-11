@@ -1,0 +1,41 @@
+.sidebar {
+    margin-left: -70px;
+    z-index: 100;
+}
+
+.max-size {
+    height: 657px;
+}
+
+.top-card {
+    height: 40px;
+    margin-left: -15px;
+    margin-right: -15px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.menu{
+    height: 30px;
+    width: 30px;
+    color: white;
+    margin-left: -9px;
+    margin-top: 5px;
+}
+
+.search-div {
+    background-color: #dfdfdf;
+    width: 23px;
+    height: 23px;
+    border-radius: 22px;
+}
+.search-icon{
+    margin-left: 4px;
+    margin-top: -4px;
+}
+
+.side-icons{
+    color: white;
+}
